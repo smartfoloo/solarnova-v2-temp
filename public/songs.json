@@ -1,5 +1,10 @@
 [
   {
+    "title": "OWA OWA",
+    "id": "owa-owa",
+    "artist": "Lil Tecca"
+  },
+  {
     "title": "EVIL J0RDAN",
     "id": "evil-j0rdan",
     "artist": "Playboi Carti"
@@ -30,9 +35,9 @@
     "artist": "Lil Tecca"
   },
   {
-    "title": "NOKIA",
-    "id": "nokia",
-    "artist": "Drake"
+    "title": "Thinkin Bout You",
+    "id": "thinkin-bout-you",
+    "artist": "Frank Ocean"
   },
   {
     "title": "luther (with sza)",
@@ -113,11 +118,6 @@
     "title": "Timeless (with Playboi Carti)",
     "id": "timeless-(with-playboi-carti)",
     "artist": "The Weeknd, Playboi Carti"
-  },
-  {
-    "title": "DtMF",
-    "id": "dtmf",
-    "artist": "Bad Bunny"
   },
   {
     "title": "BAND4BAND",
@@ -245,14 +245,34 @@
     "artist": "The Weeknd"
   },
   {
+    "title": "NOKIA",
+    "id": "nokia",
+    "artist": "Drake"
+  },
+  {
     "title": "FE!N (feat. Playboi Carti)",
     "id": "fe!n-(feat.-playboi-carti)",
     "artist": "Travis Scott, Playboi Carti"
   },
   {
+    "title": "SICKO MODE",
+    "id": "sicko-mode",
+    "artist": "Travis Scott"
+  },
+  {
+    "title": "Let You Down",
+    "id": "let-you-down",
+    "artist": "NF"
+  },
+  {
     "title": "HUMBLE.",
     "id": "humble",
     "artist": "Kendrick Lamar"
+  },
+  {
+    "title": "DtMF",
+    "id": "dtmf",
+    "artist": "Bad Bunny"
   },
   {
     "title": "In My Head",
