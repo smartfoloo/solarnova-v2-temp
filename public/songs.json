@@ -80,9 +80,19 @@
     "artist": "Travis Scott"
   },
   {
-    "title": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-    "id": "nightcrawler",
-    "artist": "Travis Scott, Swae Lee, Chief Keef"
+    "title": "SICKO MODE",
+    "id": "sicko-mode",
+    "artist": "Travis Scott"
+  },
+  {
+    "title": "BUTTERFLY EFFECT",
+    "id": "butterfly-effect",
+    "artist": "Travis Scott"
+  },
+  {
+    "title": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+    "id": "lemonade",
+    "artist": "Internet Money, Gunna, Don Toliver, NAV"
   },
   {
     "title": "Not Like Us",
@@ -95,11 +105,6 @@
     "artist": "Kendrick Lamar, SZA"
   },
   {
-    "title": "Bandit (with YoungBoy Never Broke Again)",
-    "id": "bandit",
-    "artist": "Juice WRLD, YoungBoy Never Broke Again"
-  },
-  {
     "title": "Doja",
     "id": "doja",
     "artist": "Central Cee"
@@ -108,11 +113,6 @@
     "title": "Sprinter",
     "id": "sprinter",
     "artist": "Dave, Central Cee"
-  },
-  {
-    "title": "Cry For Me",
-    "id": "cry-for-me",
-    "artist": "The Weeknd"
   },
   {
     "title": "Timeless (with Playboi Carti)",
@@ -168,6 +168,11 @@
     "title": "Empty Out Your Pockets",
     "id": "empty-out-your-pockets",
     "artist": "Juice WRLD"
+  },
+  {
+    "title": "Bandit (with YoungBoy Never Broke Again)",
+    "id": "bandit",
+    "artist": "Juice WRLD, YoungBoy Never Broke Again"
   },
   {
     "title": "Wishing Well",
@@ -255,11 +260,6 @@
     "artist": "Travis Scott, Playboi Carti"
   },
   {
-    "title": "SICKO MODE",
-    "id": "sicko-mode",
-    "artist": "Travis Scott"
-  },
-  {
     "title": "Let You Down",
     "id": "let-you-down",
     "artist": "NF"
@@ -320,6 +320,11 @@
     "artist": "Lil Tecca"
   },
   {
+    "title": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+    "id": "nightcrawler",
+    "artist": "Travis Scott, Swae Lee, Chief Keef"
+  },
+  {
     "title": "No Pole",
     "id": "no-pole",
     "artist": "Don Toliver"
@@ -340,8 +345,23 @@
     "artist": "Drake, Wizkid, Kyla"
   },
   {
+    "title": "Hotline Bling",
+    "id": "hotline-bling",
+    "artist": "Drake"
+  },
+  {
+    "title": "Rich Flex",
+    "id": "rich-flex",
+    "artist": "Drake, 21 Savage"
+  },
+  {
     "title": "The Hills",
     "id": "the-hills",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Cry For Me",
+    "id": "cry-for-me",
     "artist": "The Weeknd"
   },
   {
